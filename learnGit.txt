@@ -1,4 +1,4 @@
-** Learn Git in easy way**
+** Learn Git in easy way **
 
 I wrote a short note in Notion.io, 
 here I am attaching the link of that note, so you can learn easily.
