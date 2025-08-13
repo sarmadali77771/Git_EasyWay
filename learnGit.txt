@@ -1,4 +1,4 @@
-** Learn Git in easy way **
+# Learn Git in easy way | 90% most used command covered here
 
 I wrote a short and simple note in Notion.io, it is just a 3 minutes read.
 here I am attaching the link of notion note, so you can learn git easily.
