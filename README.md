@@ -1,0 +1,6 @@
+# Learn Git in easy way | 90% most used commands covered here
+
+I wrote a short and simple note in Notion.io, it is just a 3 minutes read.
+here I am attaching the link of notion note, so you can learn git easily.
+```bash
+https://verbena-cayenne-70e.notion.site/Git-easy-way-24e69fb44aa780a88922e766944e2889
